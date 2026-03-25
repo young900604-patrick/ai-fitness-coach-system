@@ -49,7 +49,8 @@
 
 以下為實際微調程式碼設定範例：
 
-![LoRA Training](lora_training.png)
+<img width="642" height="132" alt="輕量化" src="https://github.com/user-attachments/assets/20b4958a-7047-4789-8fc0-f405845ce2fa" />
+
 
 ---
 
