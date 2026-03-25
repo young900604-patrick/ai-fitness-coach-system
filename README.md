@@ -25,6 +25,7 @@
 - 模型推論伺服器（LLM Inference Server）：Python  
 
 系統透過 WebSocket 建立即時通訊管道，使用者問題由前端送至後端，再轉送至模型推論伺服器，並將生成結果即時回傳顯示。
+<img width="642" height="289" alt="系統架構" src="https://github.com/user-attachments/assets/d700cc31-aeaa-4936-bf25-d839e1cd5d05" />
 
 ---
 
